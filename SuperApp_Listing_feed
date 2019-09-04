@@ -467,7 +467,7 @@
     },
     {
       "name": "NP",
-      "defaulturl": "https://nprelease.indiatimes.com/toi-feed/feed/npa/listing/homenews?section=top-news&lang=hindi&curpg=1&pp=20&v=v1&asset=ad,pg,vd&fv=499",
+      "defaulturl": "https://nprelease.indiatimes.com/toi-feed/feed/npa/listing/homenews?section=top-news&lang=hindi,english&curpg=1&pp=20&v=v1&asset=ad,pg,vd&fv=499",
       "tn": "mixed",
       "uid": "RajaniKant-01",
       "ct": "5",
